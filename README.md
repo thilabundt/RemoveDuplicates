@@ -1,5 +1,7 @@
 # RemoveDuplicates
 
+Описать функцию возвращающую последовательность элементов, при этом выбрасывающий идущие более n раз подряд дубликаты.
+
 There are three ways to load program:
 
 1) open project folder in Intellij IDEA
